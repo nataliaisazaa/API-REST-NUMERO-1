@@ -1,0 +1,21 @@
+html{
+    width: 100%;
+	overflow-x: hidden;
+}
+
+body{
+	color: #6F6F6F;
+	background-color: #E9E9E9;
+	font-size: 14px!important;
+}
+
+html, body{
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+
+td{
+	vertical-align: middle!important;
+	padding: 3px!important;
+}
